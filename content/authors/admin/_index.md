@@ -34,11 +34,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Master of Computer Science
-    Intelligence
+    - course: Master of Computer Technology
       institution: North China University of Technology
       year: 2023
-    - course: Bachelor of Computer Science Intelligence
+    - course: Bachelor of Computer Technology
       institution: North China University of Technology
       year: 2019
     
